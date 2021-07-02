@@ -30,3 +30,110 @@
    cursor: pointer;
    padding: 9px 25px;
 }
+
+.cat1 ,.cat2 ,.cat3{
+    padding: 10px 30px;  
+    
+    border-radius: 10px;
+    color: white;
+   
+}
+.cat1{
+    background-color: tomato;
+    border:1px solid tomato ;   
+
+
+
+
+}
+.cat2{
+   background-color: orchid;
+   border:1px solid orchid ; 
+
+
+}
+.cat3{
+    background-color: royalblue;
+    border:1px solid royalblue ;
+
+}
+.categories img{
+    width: 100px; 
+
+
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #FF589B 0% ,#FF589B 100%);
+    color: white;
+    width: 40% ;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 3%;
+    padding: 3%;
+    text-align: center;
+
+
+
+}
+h5{
+    margin: 3%;
+
+}
+.card{
+    box-shadow:5px 5px 10px lightgray;
+    border-radius: 10px ;
+    border: none;
+}
+.buy-now-button2{
+    background-image: linear-gradient(to bottom, #FF589B 0% ,#FF589B 100%);
+    color: white;
+    width: 50% ;
+    border-radius: 10px;
+    
+    cursor: pointer;
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+
+
+
+}
+.card-footer{
+    background-color: white; 
+    border-top: none;
+    
+
+
+
+}
+.buy-now-button3{
+    background-image: linear-gradient(to bottom, #FF589B 0% ,#FF589B 100%);
+    color: white;
+    width: 30%;
+    height: 30%;
+    border-radius: 10px;
+    
+    cursor: pointer;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    
+
+
+}
+.special-background1{
+    background-color: #fceae8;
+    border-radius: 10px; 
+    height: 300px;
+    
+}
+#Contact-us h6 {
+     color: royalblue;   
+ 
+
+}
+footer{
+  text-align: center;
+  font-weight: 600; 
+
+}
